@@ -48,6 +48,23 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
+#slider{
+height: 400px;
+width: 300px;
+
+}
+
+
+
+#games{
+
+margin-left: 20em;
+
+}
+
+
+
 /* Box Model */
 
 	*, *:before, *:after {
